@@ -18,6 +18,8 @@ La aplicación está disponible para Android.
 
 ## 📸 Capturas
 
-![Origen y destino](images/01%20-%20Origen_Destino.jpeg)
-![Mapa](images/02%20-%20Mapa.jpeg)
-![Top tres rutas](images/03-%20Top_Tres_Rutas.jpeg)
+<p>
+  <img src="images/01%20-%20Origen_Destino.jpeg" alt="Origen y destino" width="300" style="margin-right: 12px;" />
+  <img src="images/02%20-%20Mapa.jpeg" alt="Mapa" width="300" style="margin-right: 12px;" />
+  <img src="images/03-%20Top_Tres_Rutas.jpeg" alt="Top tres rutas" width="300" />
+</p>
